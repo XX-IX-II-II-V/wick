@@ -1,0 +1,39 @@
+Hallo, ik ben Tibbe, dit is mijn video voor de finale van de NOJ 2025. 
+
+De vraag gaat over Otto Hahn, hij kreeg een nobelprijs voor het ontdekken van kernsplijting. 
+Kort samengevat is de vraag: Ontstaat er een massaverschil bij de kernsplijting van Uranium?
+
+Om dat uit te leggen moeten we uranium van dichtbij bekijken. 
+
+Dit is een uranium 235 atoom.
+
+In het midden zit een kern, en daaromheen draaien elektronen.
+
+De kern bestaat uit twee soorten deeltjes.
+
+Protonen in het blauw, en neutronen in het grijs. In totaal zijn er 235 deeltjes, vandaar uranium-235.
+
+Terug naar Otto Hahn. Zijn team onderzocht wat er gebeurt als je uranium beschiet met neutronen.
+
+Meestal missen ze, maar als de kern wordt geraakt, dan {boem} splitst hij in tweeën
+
+Er kunnen hierbij verschillende stoffen ontstaan, in dit voorbeeld ontstaat er krypton-92 en barium-141. Daarnaast komen er neutronen vrij. 
+
+Ook komt er warmte vrij, daarover zo meer.
+
+Hier zie je de situatie voor en na de splijting. 
+
+Dit zijn alle massa's van de losse atomen, dit wordt gemeten in u. Vóór de splijting is de massa dus rond de 236u. Na de splijting, is de totale massa ongeveer 235,5u. 
+
+Is er dus een halve u verdwenen?
+
+Die vraag heeft Lisa Meitner beantwoord, zij begreep als eerste dat er kernsplijting had plaatsgevonden, maar ze kreeg de nobelprijs niet.
+
+Ze gebruikte Einsteins E=mc² om dit te bewijzen. Deze formule betekenT dat massa een vorm van energie is, en dat bij kernsplijting massa omgezet kan worden tot energie.
+
+En die energie is de warmte die vrijkwam bij het splijten. 
+
+Terug naar de vraag, het antwoord op de vraag is dus:
+"De totale massa na de splijting is kleiner dan de massa van de uranium kern. Want een beetje massa is omgezet in energie."
+
+{Bonus}
